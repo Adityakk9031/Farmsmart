@@ -1,0 +1,30 @@
+name: farmsmart
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+  xml2json: ^5.3.0
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.4.0
+  firebase_auth: ^5.2.0
+  image_picker: ^0.8.5+3
+  provider: ^6.0.0
+  carousel_slider: ^4.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/image/1.png
+    - assets/image/homefarmer.jpg

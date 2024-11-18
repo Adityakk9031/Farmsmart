@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182078264646",
+    "project_id": "farmsmart-7e359",
+    "storage_bucket": "farmsmart-7e359.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182078264646:android:28dd2157c1317ebf998147",
+        "android_client_info": {
+          "package_name": "com.example.farmsmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHvjFMEMXY-XvctCsTGoFY_PXaK2VOUSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
