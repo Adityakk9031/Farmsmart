@@ -39,6 +39,4 @@ Ensure you have the following installed on your system:
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/AyushGuptaDev/Farmsmart.git
-cd farmsmart
+``
