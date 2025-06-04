@@ -1,7 +1,7 @@
 # FarmSmart
 
 **FarmSmart** is an innovative platform that empowers farmers by enabling direct connections with customers, eliminating the need for middlemen. This project is built using Flutter, Dart, and Swift, providing a seamless experience across both Android and iOS devices.
-
+ 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
