@@ -98,12 +98,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📬 Contact
-
-For queries or collaboration:
-
-- **Email**: your.email@example.com  
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourprofile)  
-- **GitHub**: [@your-username](https://github.com/your-username)
-
----
