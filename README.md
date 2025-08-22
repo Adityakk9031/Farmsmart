@@ -45,7 +45,7 @@ By removing intermediaries, FarmSmart **ensures higher profits for farmers** whi
 ## 🛠️ Tech Stack
 
 * **Frontend / Mobile**: Flutter (Dart), Swift (iOS integrations)
-* **Backend (Optional Future Integration)**: Firebase / Node.js / Django REST API
+* **Backend** : Firebase / Node.js / Django REST API
 * **Database**: Firebase Firestore / PostgreSQL
 * **Authentication**: Firebase Auth / OAuth
 * **Payment Integration**: Razorpay, Stripe, or PayPal APIs
